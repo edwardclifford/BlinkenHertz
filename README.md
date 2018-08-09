@@ -1,7 +1,7 @@
 # BlinkenHertz
 Lets two RasPis communicate over blinking lights, with a high refresh rate.
 
-Blinken (Like the telnet protocol joke) and Hertz(Sounds like hearts and the light flashes)
+Blinken (Like the telnet protocol joke) and Hertz (Sounds like "hearts" and the light flashes)
 
 
 #### Setup
