@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(12, GPIO.OUT)
 
-UDP_IP = "10.0.0.195"
+UDP_IP = "Your IP"
 UDP_PORT = 7129
 
 sock = socket.socket(socket.AF_INET, # Internet
