@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(10, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
-UDP_IP = "66.31.215.61"
+UDP_IP = "Enter the ip here"
 UDP_PORT = 7128
 MESSAGE = "12"
 
